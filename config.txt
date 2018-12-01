@@ -1,5 +1,5 @@
 token=NTA4MDE1MTA2NzI3MjE1MTM3.DtmJYw.b_Cc3kRK7szDcXbIDV82GJW6Xyc
 owner=485380710656507914
 prefix=1
-game=Neptune | 1Play
+game=vM | 1Play
 stayinchannel=true
